@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Яковлев_Н_21Д_Задание_2__номер_25.fill">
+  <Class Name="Яковлев_Н_21Д_Задание_3__номер_25.fill">
     <Position X="7.75" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>fill.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Яковлев_Н_21Д_Задание_2__номер_25.geo_figure">
+  <Class Name="Яковлев_Н_21Д_Задание_3__номер_25.geo_figure">
     <Position X="7.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
       <FileName>geo_figure.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Яковлев_Н_21Д_Задание_2__номер_25.line">
+  <Class Name="Яковлев_Н_21Д_Задание_3__номер_25.line">
     <Position X="5.25" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAQEIAAAAAAAAAEAAAAAAAAAAEAAA=</HashCode>
       <FileName>line.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Яковлев_Н_21Д_Задание_2__номер_25.Circle">
+  <Class Name="Яковлев_Н_21Д_Задание_3__номер_25.Circle">
     <Position X="10.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>

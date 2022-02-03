@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Яковлев_Н_21Д_Задание_2__номер_25
+namespace Яковлев_Н_21Д_Задание_3__номер_25
 {
     internal abstract class geo_figure
     {
